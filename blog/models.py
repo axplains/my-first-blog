@@ -2,7 +2,7 @@
 from django.db import models
 from django.utils import timezone
 
-# questo definisce il model (è un oggetto)
+# questo definisce il model (e' un oggetto)
 # class: indica che stiamo definendo un oggetto
 # Post: nome del modello (inizia sempre con una maiuscola)
 # models.Model: indica a Django che è un modello, e quindi va salvato nel DB
